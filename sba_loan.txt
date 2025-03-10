@@ -1,0 +1,101 @@
+loan_id	business_name	loan_amount	loan_status	city	state	approval_date	bank_name	naics_code	jobs_retained
+1	Rodriguez, Figueroa and Sanchez	321516.27	Approved	Lake Curtis	IL	2024-10-05	Chase	334053	9
+2	Garza Inc	369553.25	Approved	North Jefferyhaven	MI	2020-05-07	Citibank	133326	2
+3	Gonzalez, Santos and Gardner	51379.14	Approved	South Bridget	NC	2020-03-06	US Bank	127824	36
+4	Wolfe LLC	103424.64	Denied	Ericmouth	FL	2020-12-28	Citibank	717889	18
+5	James LLC	405668.08	Approved	Cassandraton	TX	2024-01-12	Citibank	456778	18
+6	Martinez, Nielsen and Miller	81962.35	Denied	Mariastad	NY	2025-01-12	Bank of America	498382	7
+7	Bush Inc	182694.79	Denied	Port Keith	MI	2020-10-19	Wells Fargo	946335	3
+8	Delacruz Group	366217.23	Approved	Shawnstad	OH	2021-07-04	Bank of America	678856	19
+9	Kelly-Santiago	415555.31	Denied	New Cynthiaside	MI	2022-03-16	Chase	838797	5
+10	Ford LLC	27683.07	Approved	Lake Mark	IL	2020-08-06	Bank of America	996865	15
+11	Underwood LLC	433909.42	Denied	Adamsborough	IL	2024-12-12	Citibank	766563	24
+12	Edwards, Rios and Foster	85513.78	Denied	Thomasberg	FL	2022-03-22	Wells Fargo	835911	44
+13	Hoffman, Baker and Richards	325777.52	Approved	Coxberg	NC	2024-06-16	Chase	271339	30
+14	Davis-Williams	192830.44	Approved	East Courtneychester	PA	2020-08-30	Bank of America	340174	3
+15	James-Ferrell	403497.67	Denied	Tashatown	IL	2021-02-04	Bank of America	321231	37
+16	Dyer, Potter and Mack	438801.98	Denied	Danielchester	FL	2021-06-20	Citibank	514850	42
+17	Smith-Bowen	232131.67	Denied	Teresaburgh	TX	2024-06-10	Chase	881177	36
+18	Harrell LLC	271793.76	Denied	East Nathaniel	MI	2021-06-30	Citibank	479580	15
+19	Ashley, Nielsen and Sellers	498676.26	Approved	Tracyville	NC	2023-03-18	Citibank	195325	49
+20	Allen-Allen	28322.61	Approved	North Jessicaland	TX	2024-08-27	Chase	930555	44
+21	Anderson Group	213969.18	Approved	West Allison	OH	2023-09-21	Citibank	724834	30
+22	Hickman Ltd	266911.6	Approved	Lake Larry	NY	2023-04-20	US Bank	887352	18
+23	Lam-Hayes	385456.37	Denied	East Caleb	NY	2020-04-20	Wells Fargo	555884	11
+24	Spencer, Chapman and Smith	229593.23	Denied	East Carloston	NC	2022-12-07	Chase	632342	7
+25	Palmer LLC	435906.69	Denied	Lewisberg	NC	2024-12-24	US Bank	308573	10
+26	Kennedy, Mueller and Aguirre	190087.36	Approved	North Collin	NC	2023-10-16	US Bank	100599	39
+27	Henderson-Owens	165457.25	Approved	Lake Deniseville	NY	2020-08-21	Wells Fargo	972064	20
+28	Chandler-Mcbride	123528.89	Approved	East Jamesside	MI	2023-12-09	Bank of America	189814	47
+29	Henderson LLC	245565.28	Approved	Wrightland	NC	2023-11-22	Chase	234628	43
+30	Garcia, Pearson and Fernandez	240264.78	Approved	North Sarabury	IL	2021-07-15	US Bank	736059	28
+31	Tucker-Lewis	482359.64	Approved	Barreraburgh	IL	2023-05-07	Citibank	804314	42
+32	Galloway LLC	189843.15	Denied	Mitchellside	NY	2024-04-06	Chase	335612	5
+33	Lee and Sons	172352.35	Approved	New Jillton	MI	2022-10-16	Chase	107540	5
+34	Williams Group	355381.27	Approved	North Susan	FL	2020-10-20	Bank of America	132938	22
+35	Jones Inc	40074.39	Approved	South David	IL	2024-12-19	Citibank	324643	35
+36	Riley Inc	70494.37	Denied	South Dianeshire	FL	2024-07-27	Citibank	946721	27
+37	Donovan-Harris	99252.91	Approved	Johnfurt	OH	2021-03-27	Wells Fargo	544154	27
+38	Brewer, Bryant and Hickman	236177.21	Approved	North Stephenshire	NY	2020-12-21	Bank of America	522179	47
+39	Medina PLC	172954.79	Approved	Davidstad	FL	2020-09-15	Chase	299448	35
+40	Wood and Sons	227063.71	Denied	Bassport	TX	2024-08-15	Wells Fargo	585100	16
+41	Contreras PLC	437870.55	Approved	Sarahville	GA	2021-04-07	US Bank	202664	4
+42	Wilson-Rodriguez	327811.72	Approved	West Juan	NY	2021-11-30	Chase	274389	27
+43	Cooper, Watts and Farrell	245392.36	Approved	Kington	OH	2020-11-27	Bank of America	272634	25
+44	Henderson, Hill and Smith	6066.91	Denied	Lake Tina	IL	2021-07-01	Citibank	399105	28
+45	Ramos, Thornton and Hoffman	349812.79	Denied	North Sierraberg	TX	2024-10-06	Chase	411120	14
+46	Davenport PLC	484511.14	Approved	South David	PA	2022-09-29	Bank of America	152578	38
+47	Nolan-Flynn	241010.32	Approved	West Jasonbury	CA	2020-12-30	US Bank	184002	12
+48	Deleon-Henson	38918.06	Approved	Dicksonberg	FL	2022-02-19	Citibank	225710	37
+49	Cherry and Sons	126876.6	Approved	Johnsonmouth	MI	2023-08-17	Bank of America	539589	43
+50	Shields, Cochran and Adams	293917.78	Denied	South Monicafort	IL	2022-01-06	Chase	802258	46
+51	Velasquez Group	160521.01	Denied	Kevinbury	OH	2022-01-07	Chase	804318	42
+52	Keller Group	153498.55	Denied	Joshualand	NY	2022-07-01	Bank of America	580547	40
+53	May-Ross	499234.95	Approved	Sheilaville	NY	2022-05-06	US Bank	323508	33
+54	Carpenter LLC	136274.21	Denied	North Candacestad	NY	2022-10-16	Chase	487477	19
+55	Obrien-Dixon	83084.68	Denied	Lamborough	MI	2022-04-16	US Bank	108203	43
+56	Fletcher Inc	409466.55	Denied	West Ryan	NY	2022-12-06	Chase	377312	8
+57	Edwards, Charles and Cortez	445407.79	Approved	Williamchester	IL	2022-11-24	Wells Fargo	734210	14
+58	Terry-Spencer	360218.03	Approved	South Elizabeth	IL	2023-05-07	US Bank	612262	17
+59	Adkins, Thompson and Carroll	453141.56	Approved	Kelleytown	NY	2022-09-16	Citibank	969634	18
+60	Clark-Floyd	26822.95	Denied	Stevenmouth	TX	2021-12-09	Wells Fargo	269430	48
+61	Kennedy, Santana and Flynn	223708.58	Denied	Lake Christopher	NC	2024-07-04	Bank of America	217308	5
+62	Schultz, Rogers and Cardenas	472800.21	Approved	Lake Lance	NC	2021-10-25	Bank of America	975136	24
+63	Johnson and Sons	293342.24	Approved	Carrland	OH	2023-12-30	Chase	143860	20
+64	Mercado-Johnston	185502.5	Approved	Snyderbury	PA	2021-05-18	Chase	815198	16
+65	Watts, Stafford and Dalton	335132.04	Denied	Port Ronaldburgh	NC	2024-07-12	Citibank	750810	48
+66	Williams-Wright	81503.9	Approved	South Dennismouth	TX	2024-08-22	Chase	532322	2
+67	Larson, Dodson and Vance	93783.53	Denied	Rivasside	OH	2023-12-01	Chase	379766	11
+68	Manning Group	394750.38	Approved	Greenbury	OH	2022-06-25	Bank of America	593554	15
+69	Washington, Allen and Gonzales	103788.55	Denied	Jimmymouth	PA	2022-11-04	Wells Fargo	960394	15
+70	Miller, Hernandez and Reyes	115347.16	Approved	Lake Jason	OH	2023-08-26	Wells Fargo	392136	5
+71	Rivera-Owens	483610.11	Denied	East Marissafurt	PA	2025-02-02	US Bank	519093	44
+72	Smith, Gilmore and Johnston	490669.1	Denied	Smithstad	CA	2022-08-30	Bank of America	373903	12
+73	Castaneda-Ashley	292391.92	Denied	Medinaside	CA	2021-12-31	Bank of America	725550	28
+74	Robinson-Graham	176115.12	Denied	South Matthewfurt	OH	2021-07-11	US Bank	636265	8
+75	Calhoun-Hooper	195671.74	Approved	South Brittanytown	IL	2020-11-01	Bank of America	843215	28
+76	Patterson, Camacho and White	5837.18	Approved	Nicholasborough	PA	2023-12-28	Citibank	173372	43
+77	Rogers-Hobbs	460781.57	Denied	Karenchester	NY	2022-04-08	Wells Fargo	631756	20
+78	Ruiz Ltd	335111.99	Denied	West Jeffreyland	OH	2020-06-19	Wells Fargo	681343	9
+79	Herring and Sons	99960.85	Denied	New Elijahberg	TX	2024-02-25	US Bank	696750	20
+80	Wilson, Gould and Marshall	206007.21	Approved	Katieburgh	IL	2021-02-04	Wells Fargo	320392	28
+81	Oconnell Inc	393950.62	Denied	West Barbarafurt	GA	2023-07-01	Citibank	563638	44
+82	Gonzalez, Vargas and Rivas	110782.19	Denied	North Heidi	TX	2022-09-08	Bank of America	397571	33
+83	Burke, Martinez and Riggs	333607.65	Denied	West Amandastad	NY	2020-09-16	Chase	805477	20
+84	Holland, Smith and Fisher	116197.13	Approved	Garciastad	TX	2024-01-13	Bank of America	148458	16
+85	Hernandez, Thompson and Boyd	492048.33	Approved	Christinaside	GA	2024-03-27	Citibank	760356	37
+86	Graham-Simon	101245.44	Denied	Marcusbury	GA	2020-11-10	Citibank	355836	10
+87	Keith-Sanchez	329748.72	Approved	Hudsonfurt	NY	2022-12-26	Citibank	329471	12
+88	Snyder LLC	403034.38	Denied	South Jason	CA	2022-04-27	US Bank	361303	8
+89	Ramirez-Carlson	230948.6	Denied	Angelahaven	NC	2021-09-30	US Bank	724377	21
+90	Allen Group	475269.61	Denied	Petersbury	MI	2024-03-04	US Bank	547470	36
+91	Joseph, West and Smith	225727.24	Approved	Jeffreybury	GA	2022-09-23	Citibank	371782	49
+92	Perkins, Kennedy and Schmidt	127383.67	Denied	Barajasside	NC	2022-12-08	Citibank	757193	16
+93	Warner-Nelson	140925.74	Approved	Jerryborough	IL	2022-10-22	Chase	384913	22
+94	Newton Ltd	163256.24	Approved	East Javier	TX	2024-03-29	Chase	342495	25
+95	Hardy-Bray	348505.16	Approved	Tinaborough	NY	2022-08-23	Citibank	527398	22
+96	Ward LLC	273592.51	Denied	Lake Amandaview	CA	2020-07-05	Chase	973349	27
+97	Tran Ltd	197791.02	Approved	Lake Miranda	MI	2024-04-19	Citibank	600149	1
+98	Salas PLC	471657.12	Denied	Taylormouth	OH	2023-01-08	Citibank	664365	48
+99	Sheppard LLC	368643.86	Approved	Wilsonland	GA	2023-07-13	Chase	386193	28
+100	Jones-Soto	245392.79	Denied	East Edwardshire	PA	2022-09-15	Citibank	859359	11
