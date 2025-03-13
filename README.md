@@ -16,6 +16,8 @@ As part of this project, we practiced fundamental SQL commands, including:
  `GROUP BY`  
  `HAVING`  
  `ORDER BY`  
+ `CASE`  
+ `EXTRACT`  
  `COUNT`, 
  `SUM`, 
  `AVG`  
