@@ -7,3 +7,18 @@ Then, we answered basic queries, which are documented as comments above the corr
 ## Technologies Used
 - **Visual Studio Code** for development.
 - **PostgreSQL** for managing the database and performing data analysis.
+
+##  SQL Queries Practiced  
+As part of this project, we practiced fundamental SQL commands, including:  
+
+ `SELECT`  
+ `WHERE`  
+ `GROUP BY`  
+ `HAVING`  
+ `ORDER BY`  
+ `COUNT`, 
+ `SUM`, 
+ `AVG`  
+
+##  Goal  
+The objective of this project is to improve SQL skills through hands-on practice.
